@@ -1,2 +1,2 @@
 # RESTful
-learning RESTful API (and work with mongoose and postman)
+learning RESTful API (and work with mongoose[ROBO 3T] and postman)
